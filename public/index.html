@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <!-- 针对IE浏览器的特殊配置，可以让IE开启最高级的渲染模式 -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- 适配移动端的完美视口 -->
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <!-- 引入图标文件 -->
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <!-- 指定网页标题，此处的标题位于package.json中第二行的name -->
+    <title>TaskManager</title>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"><!--图标字体库-->
+  </head>
+  <body>
+
+    <!-- 当浏览器不支持js时会调用下面的函数，提示错误 -->
+    <noscript>
+      <strong>很抱歉 <%= htmlWebpackPlugin.options.title %> 无法在此浏览器上运行，因为它并不支持JavaScript</strong>
+    </noscript>
+
+    <!-- 容器 -->
+    <div id="root"></div>
+  
+  </body>
+</html>
