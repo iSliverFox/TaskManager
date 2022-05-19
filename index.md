@@ -30,7 +30,9 @@
   - 建议使用Vite生成[https://vitejs.cn] node_modules更加快捷
 - 插件
   - 轻量项目，所以并未引入插件 
+
 ### 组件说明
+
   - App.vue：入口组件
     - MyHeader：头部组件。包含添加待办的输入框以及添加按钮【支持enter直接添加】
     - MyList：列表组件。
