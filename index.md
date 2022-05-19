@@ -31,11 +31,11 @@
 - 插件
   - 轻量项目，所以并未引入插件 
 ### 组件说明
-- App.vue：入口组件
-  - MyHeader：头部组件。包含添加待办的输入框以及添加按钮【支持enter直接添加】
-  - MyList：列表组件。
-    - MyItem：待办组件。包含已存在的待办
-  - MyFooter：底部组件。
+  - App.vue：入口组件
+    - MyHeader：头部组件。包含添加待办的输入框以及添加按钮【支持enter直接添加】
+    - MyList：列表组件。
+      - MyItem：待办组件。包含已存在的待办
+    - MyFooter：底部组件。
  ### 屏幕截图
  - 主界面🪂
 ![image](https://user-images.githubusercontent.com/66202597/169225414-52b7ecf2-101b-4b54-87ea-0fa584a8d64a.png)
