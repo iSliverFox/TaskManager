@@ -53,8 +53,7 @@
 - 也可以自行修改代码解决404问题
 
 ## 参与人员
-[![Contributors](https://contrib.rocks/image?repo=iSliverFox/TaskManager)]
-(https://github.com/iSliverFox/TaskManager/graphs/contributors)
+![Contributors](https://contrib.rocks/image?repo=iSliverFox/TaskManager)
 
 ## Star数量统计
 [![Star 数量统计](https://starchart.cc/iSliverFox/TaskManager.svg)](https://starchart.cc/iSliverFox/TaskManager "Star 数量统计")
